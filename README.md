@@ -6,7 +6,7 @@ First copy this repository to your pc running the following in your python termi
 git clone https://github.com/MarnixMeersman/DocumeNDT_Controller
 ```
 
-Then install al required libraries using: (if prophet gives you errors, dont worry, it is only required for machine learning time series predictions and not a vital library in order to run the rest)
+Then install al required libraries using: 
 ```
 pip install -r requirements.txt
 ```
@@ -15,7 +15,7 @@ pip install -r requirements.txt
 Then proceed with reading this README. Have fun!
 
 ## Performing your first cycle: main_grid.py
-When you cloned this repo, you will see two main_... files: main_grid and main_inputfile. We recommend to use main_grid for your first test
+When you cloned this repo, you will see two main_...py files: main_grid and main_inputfile. We recommend to use main_grid for your first test
 cycle and use the output of your first cycle to re-run the other cycles uing main_inputfile.py. 
 
 ### This is what you need to do first
@@ -30,4 +30,14 @@ cycle and use the output of your first cycle to re-run the other cycles uing mai
 3. Run your file. Your terminal should show you a clickable link. It should automatically open your browser. If not, paste the url in your browser (only tested for Chrome and Safari).
 
     <img width="318" alt="image" src="https://user-images.githubusercontent.com/57674797/203264250-99ce2169-5fcd-4d6f-92fa-2361064fd65c.png">
+
+4. You should see something like this:
+![ezgif-4 com-gif-maker](https://user-images.githubusercontent.com/57674797/203266417-7e67f9df-a6b1-4438-8881-09e594050bf9.gif)
+
+Hopefully the interface in intuitive by itself, still here a few highlights:
+  * To start, DISABLE the power of WALL-E and place the head at your origin location, then turn on two power buttons.
+  * Secondly, open your interface and click the big red SET ORIGIN! button. This saves the cureent location as the origin. 
+  * Measure the width and height of the working area relative to the origin point and enter it into the input bars.
+  
+
 
