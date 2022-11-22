@@ -140,11 +140,7 @@ def surface_plot(df):
 
 app = Dash(__name__, external_stylesheets=[dbc.themes.ZEPHYR, dbc.icons.BOOTSTRAP])
 
-# Encoded Images Used
-title_png = 'Images/DocumeNDT.png'
-test_base64 = base64.b64encode(open(title_png, 'rb').read()).decode('ascii')
-solenoid_png = 'Images/walle.svg'
-solenoid_base64 = base64.b64encode(open(solenoid_png, 'rb').read()).decode('ascii')
+
 
 app.layout = html.Div([
     html.Div(children=[
