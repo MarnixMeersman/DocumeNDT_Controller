@@ -1,5 +1,7 @@
 # DocumeNDT Control Software - WALL-E
 
+![RM3](https://user-images.githubusercontent.com/57674797/203278134-b1ae625d-dfe7-46da-b007-849686ca946d.gif)
+
 ## Quick Start
 First copy this repository to your pc running the following in your python terminal (Python 3.9 recommended)
 ```
@@ -45,5 +47,8 @@ Hopefully the interface in intuitive by itself, still here a few highlights:
   * Not that if you probed at a location you are unhappy with, click the undo button, micro adjust and try again. probing points are always saved unless you press UNDO, which then delets the last probe you did. 
   * To repeat the same cycle over again, copy the .csv file you just downloaded and paste it into the folder 'Coordinates_Input'. Name the file you just pasted 'cc.csv' 
     - Then run main_inputfile.py and click the black button named 'generate mesh'. The probing points you performed in the first cycle should appear. The rest works similar to main_grid.py
+
+## STRAP IN AND HAVE FUN!
+![FlamboyantNiftyHoatzin-size_restricted](https://user-images.githubusercontent.com/57674797/203286003-61e8880d-5cb9-412c-b350-38bedae8b1c4.gif)
 
 
