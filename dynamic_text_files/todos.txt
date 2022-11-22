@@ -1,0 +1,9 @@
+-   install x, y endstops (otherwise error 9)
+-   fix the issue when only 1 or 2 probing values are in the log file, scipy throws an error that it cannot make a surface.
+    it only works once there are 3 points.
++-   solder ALL connections with the electrical box
+-   fix the travel resolutions. (line 463)
++   implement Z homing command for "position solenoid"
+-   TEST general home button
++   Cut out noise for the accelerometer
+-   
