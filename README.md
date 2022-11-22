@@ -1,6 +1,7 @@
 # DocumeNDT Control Software - WALL-E
 
-![RM3](https://user-images.githubusercontent.com/57674797/203278134-b1ae625d-dfe7-46da-b007-849686ca946d.gif)
+![RM3](https://user-images.githubusercontent.com/57674797/203286222-2ab1c94a-505f-4673-adcd-55dfa38d61c7.gif)
+
 
 ## Quick Start
 First copy this repository to your pc running the following in your python terminal (Python 3.9 recommended)
