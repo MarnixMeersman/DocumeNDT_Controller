@@ -38,6 +38,12 @@ Hopefully the interface in intuitive by itself, still here a few highlights:
   * To start, DISABLE the power of WALL-E and place the head at your origin location, then turn on two power buttons.
   * Secondly, open your interface and click the big red SET ORIGIN! button. This saves the cureent location as the origin. 
   * Measure the width and height of the working area relative to the origin point and enter it into the input bars.
-  
+  * If you're starting a new cycle click the 'delete previous datapoints' button, such that you start of with clean file.
+  * Using the sliders you can make a probing meshgrid which is automatically adjusted in the scatterplot. Click a point to move towards it.
+  * In order tot start a hitting cycle, adjust the two controllers for number of hits and frequency to your liking. 
+  * When you have finished your cycle, save the datapoints using the green button in the bottom left. 
+  * Not that if you probed at a location you are unhappy with, click the undo button, micro adjust and try again. probing points are always saved unless you press UNDO, which then delets the last probe you did. 
+  * To repeat the same cycle over again, copy the .csv file you just downloaded and paste it into the folder 'Coordinates_Input'. Name the file you just pasted 'cc.csv' 
+    - Then run main_inputfile.py and click the black button named 'generate mesh'. The probing points you performed in the first cycle should appear. The rest works similar to main_grid.py
 
 
