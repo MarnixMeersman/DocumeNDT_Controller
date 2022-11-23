@@ -1,3 +1,7 @@
+![Ontwerp zonder titel-1](https://user-images.githubusercontent.com/57674797/203540981-e0793f43-e972-47eb-a662-410762a034ef.jpeg)
+
+
+
 # DocumeNDT Control Software - WALL-E
 
 ![RM3](https://user-images.githubusercontent.com/57674797/203286222-2ab1c94a-505f-4673-adcd-55dfa38d61c7.gif)
