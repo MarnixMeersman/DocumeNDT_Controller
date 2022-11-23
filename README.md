@@ -9,7 +9,7 @@ First copy this repository to your pc running the following in your python termi
 git clone https://github.com/MarnixMeersman/DocumeNDT_Controller
 ```
 
-Then install al required libraries using: 
+Then install all required libraries using: 
 ```
 pip install -r requirements.txt
 ```
