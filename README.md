@@ -59,4 +59,5 @@ Hopefully the interface in intuitive by itself, still here a few highlights:
 ## STRAP IN AND HAVE FUN!
 ![FlamboyantNiftyHoatzin-size_restricted](https://user-images.githubusercontent.com/57674797/203286003-61e8880d-5cb9-412c-b350-38bedae8b1c4.gif)
 
-
+#License
+DocumeNDT_Controller is available under the CC0 license. See the LICENSE file for more info
